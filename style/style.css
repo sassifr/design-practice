@@ -1,0 +1,40 @@
+body {
+  color: black;
+  background: white;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+p {
+  font-size: 40px;
+}
+
+col {
+  margin: 0;
+}
+
+#line1 {
+  height: 50rem;
+  margin: 0;
+}
+
+#line2 {
+  height: 50rem;
+  margin: 0;
+}
+
+#line3 {
+  height: 50rem;
+  margin: 0;
+}
+
+#line4 {
+  height: 50rem;
+  margin: 0;
+}
+
+#line5 {
+  height: 50rem;
+  margin: 0;
+}
+/*# sourceMappingURL=style.css.map */
